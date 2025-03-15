@@ -5,4 +5,4 @@ feature_text: |
   ## Lee Seung Chan
 ---
 
-There isn't much going on here yet, but watch this space
+I'm the senior student  mathematic department in Yonsei.Univesity.
